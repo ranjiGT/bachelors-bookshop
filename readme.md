@@ -1,5 +1,5 @@
-# bachelors-bookshop
-A simple bookshop project with an extended payment and checout facility by using PayPal sandbox environment made during third year bachelors coursework **e-Commerce**
+# Bachelor's Bookshop
+_A simple bookshop project with an extended payment and checout facility by using PayPal sandbox environment made during third year bachelors coursework **e-Commerce**_
 
 # Glimpse of the Project pages
 ![](https://github.com/ranjiGT/bachelors-bookshop/blob/master/booklist_catalog.png)
