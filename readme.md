@@ -1,4 +1,4 @@
-# `Bachelor's Bookshop`
+# `Bachelor's Bookshop` :open_book:
 _A simple bookshop project with an extended payment and checout facility by using PayPal sandbox environment made during third year bachelors coursework **e-Commerce**_
 
 # Glimpse of the Project pages
